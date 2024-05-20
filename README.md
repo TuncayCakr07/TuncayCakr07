@@ -7,7 +7,15 @@
 - **Database Management:** SQL
 - **Desktop Applications:** .NET Desktop Applications, DevExpress
 
-👨‍💻 I specialize in developing both web and desktop applications, using a combination of C#, .NET technologies, and front-end technologies like HTML, CSS, JavaScript, and Bootstrap.
+👨‍💻 Hello, I am Tuncay Çakıroğlu. I specialize in web development using
+ HTML, CSS, JavaScript, Bootstrap, and .NET ASP.NET technologies. I have
+ extensive experience in developing both desktop and web applications
+ with C#. Additionally, I am proficient in database management and
+ optimization using SQL. I am known for being warm, friendly, and a true
+ team player, thriving in collaborative environments. In my projects, I
+ focus on modern web standards and user experience to deliver high
+quality solutions.
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TuncayCakr07&theme=discord" alt="ThecoderPinar" /></a> </p>
 - 🔭 I’m currently working on [SonicHesap](https://github.com/TuncayCakr07/SonicHesap)
 - 👯 I’m looking to collaborate on [Spotify Trends 2023 Analysis](https://github.com/TuncayCakr07/Spotify_Trends_2023_Analysis)
