@@ -15,17 +15,6 @@
  team player, thriving in collaborative environments. In my projects, I
  focus on modern web standards and user experience to deliver high
 quality solutions.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TuncayCakr07&theme=discord" alt="ThecoderPinar" /></a> </p>
-- 🔭 I’m currently working on [SonicHesap](https://github.com/TuncayCakr07/SonicHesap)
-- 👯 I’m looking to collaborate on [Spotify Trends 2023 Analysis](https://github.com/TuncayCakr07/Spotify_Trends_2023_Analysis)
-- 🤝 I’m looking for help with [Plant Health Monitoring](https://github.com/TuncayCakr07/Plant-Health-Monitoring)
-- 🌱 I’m currently learning ** .NET Desktop Applications, DevExpress**
-- 💬 Ask me about **Feel free to ask me about anything related to Tensorflow, YOLO, OpenCV, data science, machine learning, Computer Vision, or artificial intelligence.**
-- 📫 How to reach me **T.cakiroglu07@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/TuncayCakr07?tab=repositories**
-- ⚡ Fun fact **I speak fluent emoji, but my computer never understands my jokes. 😅**
-
 <div> <a href="https://twitter.com/TuncayCakr07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tuncay-%C3%A7ak%C4%B1ro%C4%9Flu-65a69a149/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/TuncayCakr07" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
